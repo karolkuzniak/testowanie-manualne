@@ -1,3 +1,20 @@
+Do wykonania mamy trzy testy porównawcze w dwóch kategoriach.
+
+
+
+- aplikacje internetowe - porównanie 3 sklepów internetowych w branży zoologicznej. Czemu taka - bo inne już były,
+
+
+
+Porównanie oznacza - część wydajnościową, pozycja w google i testy automatyczne (jakiś inny mail trzeba będzie użyć, niż wcześniej, bo już pewnie okres trial w oprogramowaniu się skończył)
+
+
+
+
+- aplikacje desktopowe - porównanie 3 różnych algorytmów matematycznych z wykorzystaniem biblioteki unittest
+
+
+
 # testowanie-manualne
 testowanie manualne Questions and Answears
 
